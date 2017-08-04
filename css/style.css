@@ -1,0 +1,41 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #2d3c49 ; 
+	font-weight: 500;
+
+}
+.body-image{
+	width: 1200px;
+	max-width: 100%;
+	margin: auto;
+}
+.container
+{
+	max-width: 100%;
+}
+.img-logo{
+	margin-top: 25px;
+	max-width: 100%;
+	width: 100px;
+}
+.horizontal
+{
+	border-width: 3px;
+	border-style: bold;
+	border-color: #7d97ad;
+}
+
+.super-title{
+	font-size: 40px;
+}
+.sup-header{
+	color: #7d97ad;
+	font-weight: 500;
+	padding-bottom: 30px;
+}
+
+.imges{
+		width: 950px;
+	max-width: 100%
+}
+
