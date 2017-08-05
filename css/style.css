@@ -3,15 +3,26 @@ body{
 	color: #2d3c49 ; 
 	font-weight: 500;
 
+
+	  align-items: center;
+  display: flex;
+
 }
 .body-image{
-	width: 1200px;
+	width: 1120px;
 	max-width: 100%;
-	margin: auto;
+}
+.body-image{
+	display: flex;
+	flex-wrap: wrap;
+}
+img{
+	max-width: 100%;
 }
 .container
 {
 	max-width: 100%;
+
 }
 .img-logo{
 	margin-top: 25px;
@@ -21,7 +32,7 @@ body{
 .horizontal
 {
 	border-width: 3px;
-	border-style: bold;
+	border-style: solid;
 	border-color: #7d97ad;
 }
 
@@ -34,8 +45,4 @@ body{
 	padding-bottom: 30px;
 }
 
-.imges{
-		width: 950px;
-	max-width: 100%
-}
 
