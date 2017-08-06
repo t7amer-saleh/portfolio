@@ -1,13 +1,12 @@
-.super-title {
-	font-size: 20px;
-}
+		.super-title {
+			font-size: 20px;
+		}
 
-.postion-title{
-	font-size: 15px;
-}
+		.postion-title{
+			font-size: 15px;
+		}
 
-.imges1 {
-	display: flex;
-	flex-wrap: wrap;
-
-}
+		.imges1 {
+			display: flex;
+			flex-wrap: wrap;
+		}
